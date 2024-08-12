@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079152864593",
+    "project_id": "todocould",
+    "storage_bucket": "todocould.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079152864593:android:4ed9aeb4d117928f2f3770",
+        "android_client_info": {
+          "package_name": "com.demp_api.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRlVuY1oRKZz4hcvLBrDuwyZgtmiX2Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079152864593:android:8ad7d4d259e256922f3770",
+        "android_client_info": {
+          "package_name": "com.example.demo_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVRlVuY1oRKZz4hcvLBrDuwyZgtmiX2Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
